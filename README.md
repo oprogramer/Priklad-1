@@ -9,3 +9,5 @@
 #pocet napisanych stran
 
 Mam napisane 12 stran
+
+Zmena cez web
