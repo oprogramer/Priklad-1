@@ -1,4 +1,4 @@
 # Priklad-1
-OM
-Vizualizácia údajových štruktúr
-20.04.2016
+##OM
+1.Vizualizácia údajových štruktúr
+-1.20.04.2016
